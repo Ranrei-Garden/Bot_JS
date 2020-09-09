@@ -5,4 +5,5 @@ client.on('ready', () => {
   console.log(`${client.user.tag}がオンラインになりました`);
 });
 //誰も書いてなくて草
+//誰も何もしないww
 client.login('Token');
